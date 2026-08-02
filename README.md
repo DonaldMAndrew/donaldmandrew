@@ -4,6 +4,7 @@ Welcome to my data portfolio! Here, I document a selection of projects in data s
 
 ## 📚 Table of Contents
 - [Health Data & Machine Learning](#health-data--machine-learning)
+- - [Hypothesis Testing](#hypothesis-testing)
 
 # Health Data & Machine Learning
 
