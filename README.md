@@ -3,9 +3,10 @@
 Welcome to my data portfolio! Here, I document a selection of projects in data science, machine learning, and healthcare analytics.
 
 ## 📚 Table of Contents
-- [Health Data & Machine Learning](#health-data--machine-learning)
-- [Hypothesis Testing](#hypothesis-testing)
--[Visualizations](#visualizations)
+- [Health Data & Machine Learning](#health-data--machine-learning)<br>
+- [Hypothesis Testing](#hypothesis-testing)<br>
+- [Visualizations](#visualizations)<br>
+- [SQL and Databases](#sql--databases)<br>
 
 # Health Data & Machine Learning
 
@@ -29,3 +30,7 @@ Welcome to my data portfolio! Here, I document a selection of projects in data s
 | 🧾 [CarePlus HMO Receivables Tracker](https://github.com/donaldandrew/CarePlus-HMO-Receivables-Tracker) |Excel (PivotTables, PivotCharts, slicers, SUMIFS) | Built an 11-month claims and collections tracker for an HMO client base, reconciling ₦186.14M invoiced against ₦140.86M collected. Practice dataset, fictional clients. | Found that the biggest client by value (51% of all invoicing) was also one of the best payers, while two mid-size clients were the real collections risk at only 21.6% and 36.1% paid. Also caught and corrected a mislabeled column in the source pivot before drawing conclusions from it. |
 
 
+# SQL & Databases
+| Project Link | Tools | Description | Results |
+|---|---|---|---|
+| 💊 [Health Insurance Premium Analysis](https://github.com/donaldandrew/Health-Insurance-Premium-Analysis_SQL) | SQL Server (T-SQL), window functions, PIVOT, CTEs, correlated subqueries, EXISTS, CROSS APPLY | SQL Server case study on a 45,165-row subset of the CMS Health Insurance Marketplace Rate dataset (50K rows pulled from the original 12.69M), covering premium variation by state, age, issuer, and rating area. | Found Alaska's premiums run nearly double Alabama's at every age bracket, not just on average, and that a small cluster of "Luxury" tier plans (avg $818, under 9% of the sample) pulls the overall average well above what a typical row actually costs. |
