@@ -23,9 +23,9 @@ Welcome to my data portfolio! Here, I document a selection of projects in data s
 
 
 # Visualizations
-
-| 📊 [LyftMed Executive Intelligence Suite](https://github.com/donaldandrew/LyftMed-Executive-Intelligence-dashboard) | Power BI, DAX | A 7-page executive report covering revenue, partner risk, warehouse operations, lost sales, promotions, delivery/rider performance and geographic risk, built on a shared data model with 30+ custom DAX measures. | Found that promotions drive 56% of revenue but over half of the company's total ₦601.22M revenue-at-risk, and traced ₦601M in risk down to two root levers: late delivery and stockouts. |
-
-| 🧾 [CarePlus HMO Receivables Tracker](https://github.com/donaldandrew/CarePlus-HMO-Receivables-Tracker) | Excel (PivotTables, PivotCharts, slicers, SUMIFS) | Built an 11-month claims and collections tracker for an HMO client base, reconciling ₦186.14M invoiced against ₦140.86M collected. Practice dataset, fictional clients. | Found that the biggest client by value (51% of all invoicing) was also one of the best payers, while two mid-size clients were the real collections risk at only 21.6% and 36.1% paid. Also caught and corrected a mislabeled column in the source pivot before drawing conclusions from it. |
+| Project Link | Tools | Description | Results |
+|---|---|---|---|
+| 📊 [LyftMed Executive Intelligence Suite](https://github.com/donaldandrew/LyftMed-Executive-Intelligence-dashboard) | Power BI, DAX | A 7-page executive report covering revenue, partner risk, warehouse operations, lost sales, promotions, delivery/rider performance and geographic risk, built on a shared data model with 30+ custom DAX measures. |Found that promotions drive 56% of revenue but also over half of the company's total ₦601.22M revenue-at-risk, and traced ₦601M in risk down to two root levers: late delivery and stockouts. |
+| 🧾 [CarePlus HMO Receivables Tracker](https://github.com/donaldandrew/CarePlus-HMO-Receivables-Tracker) |Excel (PivotTables, PivotCharts, slicers, SUMIFS) | Built an 11-month claims and collections tracker for an HMO client base, reconciling ₦186.14M invoiced against ₦140.86M collected. Practice dataset, fictional clients. | Found that the biggest client by value (51% of all invoicing) was also one of the best payers, while two mid-size clients were the real collections risk at only 21.6% and 36.1% paid. Also caught and corrected a mislabeled column in the source pivot before drawing conclusions from it. |
 
 
